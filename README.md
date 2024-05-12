@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 a<h1 align="center">Hi there 👋, I'm Pablo</h1>
 <h3 align="center">A passionate frontend and backend developer from Valparaíso, Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
 - 🔭 I’m currently working on **personal and collaborative projects**
 
@@ -50,7 +49,4 @@ a<h1 align="center">Hi there 👋, I'm Pablo</h1>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="your-username" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
