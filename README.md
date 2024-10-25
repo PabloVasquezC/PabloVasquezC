@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springbot/springbot-original.svg" alt="springbot" width="40" height="40" /> </div>
+   <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring-boot/spring-boot-original.svg" alt="spring-boot" width="40" height="40" /> </div>
 
    <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" /> </div>
    <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /> </div>
