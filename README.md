@@ -1,5 +1,5 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Pablo</h1>
-<h3 align="center">A developer from Chile</h3>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Pablo</h1>
+<h3">A developer from Chile</h3>
 
 ---
 
@@ -45,7 +45,6 @@
 <h4>Backend</h4>
 <table>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="Django" width="40" height="40"/><br>Django</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/><br>Spring Boot</td>
   </tr>
 </table>
@@ -53,7 +52,7 @@
 <h4>Tools</h4>
 <table>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" alt="Django" width="40" height="40"/><br>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><br>Git</td>
   </tr>
 </table>
 
