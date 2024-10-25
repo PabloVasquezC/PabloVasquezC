@@ -23,6 +23,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h4>Languages</h4>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="TypeScript" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="TypeScript" width="40" height="40"/><br>Java</td>
+  </tr>
+</table>
+
 <h4>Frontend</h4>
 <table>
   <tr>
@@ -41,13 +50,11 @@
   </tr>
 </table>
 
-<h4>Other Tools</h4>
+<h4>Tools</h4>
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><br>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" alt="Django" width="40" height="40"/><br>Git</td>
   </tr>
 </table>
+
+
