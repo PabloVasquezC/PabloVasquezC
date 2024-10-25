@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Pablo</h1>
-<h3 align="center">A passionate frontend and backend developer from Valparaíso, Chile</h3>
+<h3 align="center">A developer from Chile</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **open-source projects using React and Django**
 - 💬 Ask me about **React, Django, and best practices in software development**
 - 📫 How to reach me: **vascor.pablo@gmail.com**
-- ⚡ Fun fact: **I love trekking and music**
+- ⚡ Fun fact: **I love to take a walk and listen some old songs**
 
 ---
 
@@ -36,7 +36,7 @@
 <h4>Backend</h4>
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/><br>Django</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="Django" width="40" height="40"/><br>Django</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/><br>Spring Boot</td>
   </tr>
 </table>
