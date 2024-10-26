@@ -18,7 +18,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="mailto:vascor.pablo@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="40" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Email" height="40" width="40"/>
   </a>
 
 ---
