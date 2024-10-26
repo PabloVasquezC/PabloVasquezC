@@ -18,8 +18,9 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="mailto:vascor.pablo@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mail/mail-original.svg" alt="Mail" height="40" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="40" width="40"/>
   </a>
+
 
 ---
 
