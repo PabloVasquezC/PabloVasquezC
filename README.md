@@ -3,7 +3,7 @@
 
 ---
 <h3 align="left">Projects:</h3>
-- <h2>Gameworld <a href="https://gameworld-pi.vercel.app/"></a></h2>
+<a href="https://gameworld-pi.vercel.app/">Gameworld</a>
 
 
 ---
