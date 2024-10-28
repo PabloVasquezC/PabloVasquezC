@@ -2,13 +2,9 @@
 <h3">A developer from Chile</h3>
 
 ---
+<h3 align="left">Projects:</h3>
+- <h2>Gameworld <a href="https://gameworld-pi.vercel.app/"></a></h2>
 
-- 🔭 I’m currently working on **personal and collaborative projects**
-- 🌱 I’m currently learning **more about software architectures and advanced design patterns**
-- 👯 I’m looking to collaborate on **open-source projects using React and Django**
-- 💬 Ask me about **React, Django, and best practices in software development**
-- 📫 How to reach me: **vascor.pablo@gmail.com**
-- ⚡ Fun fact: **I love to take a walk and listen some old songs**
 
 ---
 
