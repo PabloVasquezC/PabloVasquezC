@@ -3,31 +3,6 @@
 </h1>
 <h3 style="text-align: center; color: #555;">A developer from Chile</h3>
 
-<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
-
-<h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li><a href="https://gameworld-pi.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Gameworld</a></li>
-  <li><a href="https://coffe-family-front.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
-  <li><a href="https://your-beast.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">💪 YourBest</a></li>
-</ul>
-
-<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
-
-<h3 align="left" style="font-size: 1.6em; color: #333;">Connect with me:</h3>
-<table style="display: flex; gap: 15px;">
-  <tr>
-    <td href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-    </td>
-    <td href="mailto:vascor.pablo@gmail.com">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="40" width="40"/>
-    </td>
-  </tr>
-</table>
-
-<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
-
 <h3 align="left" style="font-size: 1.6em; color: #333;">Languages and Tools:</h3>
 
 <h4 style="color: #333;">Languages</h4>
@@ -64,3 +39,30 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/><br>Git</td>
   </tr>
 </table>
+
+<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
+
+<h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://gameworld-pi.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Gameworld</a></li>
+  <li><a href="https://coffe-family-front.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
+  <li><a href="https://your-beast.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">💪 YourBest</a></li>
+</ul>
+
+<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
+
+<h3 align="left" style="font-size: 1.6em; color: #333;">Connect with me:</h3>
+<table style="display: flex; gap: 15px;">
+  <tr>
+    <td href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+    </td>
+    <td href="mailto:vascor.pablo@gmail.com">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="40" width="40"/>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
+
+
