@@ -15,14 +15,16 @@
 <hr style="border: 1px solid #eaeaea; margin: 20px 0;">
 
 <h3 align="left" style="font-size: 1.6em; color: #333;">Connect with me:</h3>
-<div style="display: flex; gap: 15px;">
-  <a href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="mailto:vascor.pablo@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="40" width="40"/>
-  </a>
-</div>
+<table style="display: flex; gap: 15px;">
+  <tr>
+    <td href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+    </td>
+    <td href="mailto:vascor.pablo@gmail.com">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="40" width="40"/>
+    </td>
+  </tr>
+</table>
 
 <hr style="border: 1px solid #eaeaea; margin: 20px 0;">
 
