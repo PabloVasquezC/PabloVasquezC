@@ -49,6 +49,8 @@
   <li><a href="https://coffe-family-front.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
   <li><a href="https://responsive-pieano-web.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎹 Pianissimo</a></li>
   <li><a href="https://your-beast.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">💪 YourBest</a></li>
+  <li><a href="https://libreria-el-poeta-7ff5f0a1c803.herokuapp.com/" target="_blank" style="text-decoration: none; color: #007acc;">📗 Librería El Poeta</a></li>
+
 </ul>
 
 <hr style="border: 1px solid #eaeaea; margin: 20px 0;">
