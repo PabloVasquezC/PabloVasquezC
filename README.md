@@ -44,7 +44,7 @@
 
 <h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
 <ul style="list-style-type: none; padding: 0;">
-  <li><a href="https://blogramming-pi.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🗒 Blogramming</a></li>
+  <li><a href="https://blogramming.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🗒 Blogramming</a></li>
   <li><a href="https://gameworld-pi.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Gameworld</a></li>
   <li><a href="https://coffe-family-front.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
   <li><a href="https://responsive-pieano-web.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎹 Pianissimo</a></li>
