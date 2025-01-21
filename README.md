@@ -3,6 +3,15 @@
 </h1>
 <h3 style="text-align: center; color: #555;">A developer from Chile</h3>
 
+<h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
+<ul style="list-style-type: none; padding: 0;">
+  <li><a href="https://gameworldv2.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Gameworld</a></li>
+  <li><a href="https://familycoffee.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
+  <li><a href="https://responsive-piano-web.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎹 Pianissimo</a></li>
+  <li><a href="https://your-beast.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">💪 YourBest</a></li>
+
+</ul>
+
 <h3 align="left" style="font-size: 1.6em; color: #333;">Languages and Tools:</h3>
 
 <h4 style="color: #333;">Languages</h4>
@@ -42,14 +51,7 @@
 
 <hr style="border: 1px solid #eaeaea; margin: 20px 0;">
 
-<h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li><a href="https://gameworldv2.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Gameworld</a></li>
-  <li><a href="https://familycoffee.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
-  <li><a href="https://responsive-piano-web.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎹 Pianissimo</a></li>
-  <li><a href="https://your-beast.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">💪 YourBest</a></li>
 
-</ul>
 
 <hr style="border: 1px solid #eaeaea; margin: 20px 0;">
 
