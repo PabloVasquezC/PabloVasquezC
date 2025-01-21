@@ -44,7 +44,6 @@
 
 <h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
 <ul style="list-style-type: none; padding: 0;">
-  <li><a href="https://pablovasquezc.github.io/blogramming/" target="_blank" style="text-decoration: none; color: #007acc;">🗒 Blogramming</a></li>
   <li><a href="https://gameworldv2.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Gameworld</a></li>
   <li><a href="https://familycoffee.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
   <li><a href="https://responsive-piano-web.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">🎹 Pianissimo</a></li>
