@@ -1,74 +1,68 @@
-<h1 style="font-size: 2.5em; color: #333; text-align: center;">
-  Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;">, Soy Pablo Vásquez
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150px" style="object-fit:cover;" />
+  
+  <h1 style="font-size: 2.5em; color: #333;">
+    ¡Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: bottom;"> Soy Pablo Vásquez
+  </h1>
+  
+  <h3>Desarrollador de Software & Instructor IT 🇨🇱</h3>
+  
+  <p>
+    <em>"Transformando café en código y estudiantes en desarrolladores."</em>
+  </p>
 
-<h3 style="text-align: center; color: #555;">Un desarrollador de Chile</h3>
+  <a href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vascor.pablo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.pablograma.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Portafolio-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
+<br/>
 
-<h3 align="left" style="font-size: 1.6em; color: #333;">Mis Proyectos:</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li><a href="https://www.pablograma.dev/" target="_blank" style="text-decoration: none; color: #007acc;">👨‍💻 Portafolio</a></li>
-  <li><a href="https://www.matemania.cl/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Matemanía</a></li>
-  <li><a href="https://familycoffee.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">☕ CoffeeFamily</a></li>
-  <li><a href="https://your-beast.vercel.app/" target="_blank" style="text-decoration: none; color: #007acc;">💪 YourBest</a></li>
+<hr/>
 
-</ul>
+### 👨‍🏫 Experiencia en Docencia
+Además de desarrollar, me apasiona compartir conocimiento. Recientemente me desempeñé como **Relator en un Bootcamp de Android Trainee**, donde tuve la oportunidad de guiar a futuros desarrolladores en el ecosistema móvil, enseñando desde los fundamentos de Kotlin/Java hasta la creación de interfaces modernas y consumo de APIs.
 
-<h3 align="left" style="font-size: 1.6em; color: #333;">Languages and Tools:</h3>
+### 🌌 Más allá del Código
+No todo es programar. Cuando no estoy frente a la pantalla, probablemente me encontrarás:
+* 🔭 **Mirando las estrellas:** Aficionado a la astronomía y los misterios del universo.
+* 🏔️ **Trekking:** Explorando los cerros y paisajes de Chile.
+* ☕ **Café:** Buscando siempre el grano perfecto (es mi combustible).
+* 🎵 **Música:** Disfrutando de una buena playlist para concentrarme o relajarme.
 
-<h4 style="color: #333;">Languages</h4>
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br>Java</td>
-  </tr>
-</table>
+<hr/>
 
-<h4 style="color: #333;">Frontend</h4>
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/><br>Angular</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/><br>Bootstrap</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br>React</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/><br>Tailwind</td>
-  </tr>
-</table>
+### 🚀 Stack Tecnológico
 
-<h4 style="color: #333;">Backend</h4>
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/><br>Spring Boot</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/><br>Django</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/><br>Postgres</td>
-  </tr>
-</table>
+<div align="center">
 
-<h4 style="color: #333;">Tools</h4>
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/><br>Git</td>
-  </tr>
-</table>
+| Lenguajes | Frontend | Backend & DB | Mobile & Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/><br>TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/><br>Spring Boot | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/><br>Android |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45"/><br>Angular | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/><br>Django | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>Git |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/><br>Java | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/><br>Tailwind | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br>Postgres | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/><br>Bootstrap |
 
-<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
+</div>
 
+<br/>
 
+### 💻 Proyectos Destacados
 
-<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
+| Proyecto | Descripción | Link |
+| :--- | :--- | :---: |
+| **🎮 Matemanía** | Juego educativo matemático. | [Ver Demo](https://www.matemania.cl/) |
+| **☕ CoffeeFamily** | App para amantes del café. | [Ver Demo](https://familycoffee.vercel.app/) |
+| **💪 YourBest** | Plataforma de fitness y bienestar. | [Ver Demo](https://your-beast.vercel.app/) |
+| **👨‍💻 Portafolio** | Mi sitio web personal. | [Ver web](https://www.pablograma.dev/) |
 
-<h3 align="left" style="font-size: 1.6em; color: #333;">Contáctame:</h3>
-<table style="display: flex; gap: 15px;">
-  <tr>
-    <td href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-    </td>
-    <td href="mailto:vascor.pablo@gmail.com">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="40" width="40"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<hr style="border: 1px solid #eaeaea; margin: 20px 0;">
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_PabloVasquezC&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
+  </div>
