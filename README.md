@@ -4,7 +4,6 @@
 
 <h3 style="text-align: center; color: #555;">A developer from Chile</h3>
 
-/*<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloVasquezC&show_icons=true&locale=en&layout=compact" alt="foto De Lenguajes Más Utilizados En Mis Repos" /></p>*/
 
 <h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
 <ul style="list-style-type: none; padding: 0;">
