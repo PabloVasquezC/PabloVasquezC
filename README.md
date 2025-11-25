@@ -1,11 +1,11 @@
 <h1 style="font-size: 2.5em; color: #333; text-align: center;">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;">, I'm Pablo
+  Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;">, Soy Pablo Vásquez
 </h1>
 
-<h3 style="text-align: center; color: #555;">A developer from Chile</h3>
+<h3 style="text-align: center; color: #555;">Un desarrollador de Chile</h3>
 
 
-<h3 align="left" style="font-size: 1.6em; color: #333;">Projects:</h3>
+<h3 align="left" style="font-size: 1.6em; color: #333;">Mis Proyectos:</h3>
 <ul style="list-style-type: none; padding: 0;">
   <li><a href="https://www.pablograma.dev/" target="_blank" style="text-decoration: none; color: #007acc;">👨‍💻 Portafolio</a></li>
   <li><a href="https://www.matemania.cl/" target="_blank" style="text-decoration: none; color: #007acc;">🎮 Matemanía</a></li>
@@ -57,7 +57,7 @@
 
 <hr style="border: 1px solid #eaeaea; margin: 20px 0;">
 
-<h3 align="left" style="font-size: 1.6em; color: #333;">Connect with me:</h3>
+<h3 align="left" style="font-size: 1.6em; color: #333;">Contáctame:</h3>
 <table style="display: flex; gap: 15px;">
   <tr>
     <td href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
