@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=¡Hola%20Mundo!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Soy%20Pablo%20Vásquez%20%7C%20Desarrollador%20&%20Relator%20IT&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header Pablo Vasquez"/>
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=320&section=header&text=¡Hola%20Mundo!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Soy%20Pablo%20Vásquez%20%7C%20Desarrollador%20&%20Relator%20IT&descAlignY=55&descSize=20&fontColor=ffffff)
 
   <br/>
   
   <p>
-    <em>"Transformo tazas de café en lineas de código"</em>
+    <em>"Transformo tazas de café en líneas de código"</em>
   </p>
 
   <a href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
