@@ -8,7 +8,7 @@
     <em>"Transformo tazas de café en líneas de código"</em>
   </p>
 
-  <a href="[https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/](https://www.linkedin.com/in/pablo-v%C3%A1squez-corvalan-8569a7267/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vascor.pablo@gmail.com">
