@@ -8,7 +8,6 @@
     <em>"Transformo tazas de café en líneas de código"</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/pablo-vasquez-corvalan-8569a7267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vascor.pablo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.pablograma.dev/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 </div>
