@@ -14,22 +14,9 @@
 
 <hr/>
 
-### 👨‍🏫 Experiencia en Docencia
-Soy un apasionado por la enseñanza técnica. Mi experiencia más reciente incluye mi rol como **Relator en Bootcamp de Android Trainee**, donde formé a nuevos talentos en:
-* **Fundamentos:** Lógica de programación con Kotlin y Java.
-* **Interfaz de Usuario:** Diseño de XML layouts y buenas prácticas de UI/UX móvil.
-* **Datos:** Persistencia de datos local (Room) y consumo de APIs REST.
 
 <br/>
 
-### 🌌 Intereses Personales
-Cuando desconecto del código, me dedico a explorar otros mundos:
-* 🔭 **Astronomía:** Fascinado por lo que ocurre más allá de nuestra atmósfera.
-* 🏔️ **Trekking:** Recorriendo los senderos y cerros de Chile.
-* ☕ **Café de Grano:** Mi compañero indispensable de cada mañana (y noche).
-* 🎵 **Música:** Melómano constante.
-
-<hr/>
 
 ### 🚀 Stack Tecnológico
 
@@ -42,6 +29,8 @@ Cuando desconecto del código, me dedico a explorar otros mundos:
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br>Postgres | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/><br>Bootstrap |
 
 </div>
+
+
 
 <br/>
 
@@ -56,3 +45,18 @@ Cuando desconecto del código, me dedico a explorar otros mundos:
 | **👨‍💻 Portafolio** | Mi sitio web personal. | [Ver web](https://www.pablograma.dev/) |
 
 <br/>
+### 👨‍🏫 Experiencia en Docencia
+Soy un apasionado por la enseñanza técnica. Mi experiencia más reciente incluye mi rol como **Relator en Bootcamp de Android Trainee**, donde formé a nuevos talentos en:
+* **Fundamentos:** Lógica de programación con Kotlin y Java.
+* **Interfaz de Usuario:** Diseño de XML layouts y buenas prácticas de UI/UX móvil.
+* **Datos:** Persistencia de datos local (Room) y consumo de APIs REST.
+
+### 🌌 Intereses Personales
+Cuando desconecto del código, me dedico a explorar otros mundos:
+* 🔭 **Astronomía:** Fascinado por lo que ocurre más allá de nuestra atmósfera.
+* 🏔️ **Trekking:** Recorriendo los senderos y cerros de Chile.
+* ☕ **Café de Grano:** Mi compañero indispensable de cada mañana (y noche).
+* 🎵 **Música:** Melómano constante.
+
+<hr/>
+
