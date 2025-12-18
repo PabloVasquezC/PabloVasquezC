@@ -49,6 +49,7 @@ Cuando desconecto del código, me dedico a explorar otros mundos:
 
 | Proyecto | Descripción | Link |
 | :--- | :--- | :---: |
+| **📐 Módulo de personalización de mueble y generacion de plano para Paletstilo** | Diseño de muebles a medida y generación de plano. | [Ver Demo](https://www.paletstilo.cl/configurador) |
 | **🎮 Matemanía** | Juego educativo matemático. | [Ver Demo](https://www.matemania.cl/) |
 | **☕ CoffeeFamily** | App para amantes del café. | [Ver Demo](https://familycoffee.vercel.app/) |
 | **💪 YourBest** | Plataforma de fitness y bienestar. | [Ver Demo](https://your-beast.vercel.app/) |
