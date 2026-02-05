@@ -38,11 +38,14 @@
 
 | Proyecto | Descripción | Link |
 | :--- | :--- | :---: |
-| **📐 Módulo de personalización de mueble y generacion de plano para Paletstilo** | Diseño de muebles a medida y generación de plano. | [Ver Demo](https://www.paletstilo.cl/configurador) |
+| **🤖 Fluxia** | Agencía de automatización. | [Ver Demo](https://www.fluxia.cl) |
+| **🏢 Sercotec Curicó** | Sitio oficial del centro de negocios Curicó. | [Ver web](https://www.cdncurico.cl/) |
 | **🎮 Matemanía** | Juego educativo matemático. | [Ver Demo](https://www.matemania.cl/) |
-| **☕ CoffeeFamily** | App para amantes del café. | [Ver Demo](https://familycoffee.vercel.app/) |
-| **💪 YourBest** | Plataforma de fitness y bienestar. | [Ver Demo](https://your-beast.vercel.app/) |
+| **📐 Módulo de personalización de mueble y generacion de plano para Paletstilo** | Diseño de muebles a medida y generación de plano. | [Ver Demo](https://www.paletstilo.cl/configurador) |
 | **👨‍💻 Portafolio** | Mi sitio web personal. | [Ver web](https://www.pablograma.dev/) |
+| **🍺 Coocam** | Cooperativa de cervezeros artesanales del Maule. | [Ver Demo](https://www.coocam.cl/) |
+| **📰 Plan Media** | Consultoría. | [Ver Demo](https://www.planmedia.cl/) |
+| **🛡️ Leymat Seguridad Privada** | Sitio web para empresa de seguridad. | [Ver Demo](https://www.leymatseguridad.cl/) |
 
 <br/>
 ### 👨‍🏫 Experiencia en Docencia
